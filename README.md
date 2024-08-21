@@ -9,6 +9,21 @@ I'm a **Computer Science student** with a strong focus on **Cybersecurity** and 
 - **Problem Solver**: I'm very good at researching and troubleshooting issues, and I enjoy the process of debugging and finding solutions.
 - **Web Development**: I have a basic understanding of HTML, CSS, and JavaScript. While my focus is on the backend, I know enough to create complete web applications by myself.
 
+## Technologies I Use
+
+### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=js,cs,py,sqlite,mysql)](https://skillicons.dev)
+
+### Frameworks & Libraries
+[![My Skills](https://skillicons.dev/icons?i=django,anaconda,jquery)](https://skillicons.dev)
+
+### Operating Systems
+[![My Skills](https://skillicons.dev/icons?i=debian,kali,linux,windows,raspberrypi)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=bash,docker,github,neovim,vim,vscode,obsidian)](https://skillicons.dev)
+
+
 ## What I'm Learning
 
 - **Deepening my Knowledge in Cybersecurity**: I'm constantly expanding my knowledge in cybersecurity, focusing on both defensive and offensive techniques.
@@ -22,7 +37,7 @@ I'm a **Computer Science student** with a strong focus on **Cybersecurity** and 
 Thanks for stopping by! 😊
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 <!--
 **xXJuanDavidXx/xXJuanDavidXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
