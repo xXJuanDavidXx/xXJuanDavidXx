@@ -4,7 +4,7 @@ I'm a **Computer Science student** with a strong focus on **Cybersecurity** and 
 
 ## What I Do
 
-- **Backend Development with Django**: I build robust and scalable backend systems using Django, ensuring that my code is both secure and efficient.
+- **Backend Development with Django**: I'm in the process of learning Django and working on building secure and efficient backend systems with this powerful framework.
 - **Linux Enthusiast**: I love working with Linux, and it's my go-to environment for development and testing. I'm also proficient in setting up and managing virtual machines and Docker containers.
 - **Problem Solver**: I'm very good at researching and troubleshooting issues, and I enjoy the process of debugging and finding solutions.
 - **Web Development**: I have a basic understanding of HTML, CSS, and JavaScript. While my focus is on the backend, I know enough to create complete web applications by myself.
@@ -12,7 +12,8 @@ I'm a **Computer Science student** with a strong focus on **Cybersecurity** and 
 ## What I'm Learning
 
 - **Deepening my Knowledge in Cybersecurity**: I'm constantly expanding my knowledge in cybersecurity, focusing on both defensive and offensive techniques.
-- **Improving Frontend Skills**: I'm working on improving my HTML, CSS, and JavaScript skills to create more dynamic and responsive web applications.
+- **Focus on Backend Development**: While I know the basics of HTML, CSS, and JavaScript, my main interest lies in backend development, where I enjoy building and optimizing server-side logic and architecture.
+
 
 ## Get in Touch
 
