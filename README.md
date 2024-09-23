@@ -16,7 +16,7 @@ I'm a **Computer Science student** focused on **Cybersecurity** and **Ethical Ha
 [![My Skills](https://skillicons.dev/icons?i=js,cs,py,sqlite,mysql)](https://skillicons.dev)
 
 ### Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=django,anaconda,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
 
 ### Operating Systems
 [![My Skills](https://skillicons.dev/icons?i=kali,linux,windows,raspberrypi)](https://skillicons.dev)
