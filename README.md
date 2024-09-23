@@ -13,7 +13,7 @@ I'm a **Computer Science student** focused on **Cybersecurity** and **Ethical Ha
 ## Technologies I Use
 
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=js,cs,py,sqlite,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,py,sqlite,mysql)](https://skillicons.dev)
 
 ### Frameworks & Libraries
 [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
