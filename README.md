@@ -19,6 +19,12 @@ I'm a **Computer Science student** focused on **Cybersecurity** and **Ethical Ha
 ### Frameworks & Libraries
 [![My Skills](https://skillicons.dev/icons?i=django,anaconda,fastapi)](https://skillicons.dev)
 
+![image](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+
+![image](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+
+![image](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+
 ### Operating Systems
 [![My Skills](https://skillicons.dev/icons?i=kali,linux,windows,raspberrypi)](https://skillicons.dev)
 
