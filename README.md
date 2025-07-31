@@ -9,6 +9,7 @@ I'm a **Computer Science student** focused on **Cybersecurity** and **Ethical Ha
 - **Linux Enthusiast**: Proficient in Linux, virtual machines, and Docker.
 - **Problem Solver**: Skilled at researching and troubleshooting issues.
 - **Web Development**: Basic knowledge of HTML, CSS, and JavaScript, with a focus on backend.
+- **Pentesting and Cybersecurity**: Intermediate knowledge of vulnerability assessment, penetration testing, and core principles of information security.
 
 ## Technologies I Use
 
