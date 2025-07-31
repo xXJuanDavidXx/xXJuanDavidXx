@@ -16,13 +16,16 @@ I'm a **Computer Science student** focused on **Cybersecurity** and **Ethical Ha
 [![My Skills](https://skillicons.dev/icons?i=cs,py,sqlite,mysql)](https://skillicons.dev)
 
 ### Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,anaconda,fastapi)](https://skillicons.dev)
 
 ### Operating Systems
 [![My Skills](https://skillicons.dev/icons?i=kali,linux,windows,raspberrypi)](https://skillicons.dev)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=bash,docker,github,vim,vscode,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,aws,docker,github,vim,vscode,obsidian,git)](https://skillicons.dev)
+
+### Study in
+https://img.shields.io/badge/Platzi-13161c?style=for-the-badge&logo=platzi&logoColor=0ae98a
 
 ## Get in Touch
 
