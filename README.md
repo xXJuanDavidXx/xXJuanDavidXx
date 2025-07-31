@@ -24,8 +24,6 @@ I'm a **Computer Science student** focused on **Cybersecurity** and **Ethical Ha
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=bash,aws,docker,github,vim,vscode,obsidian,git)](https://skillicons.dev)
 
-### Study in
-https://img.shields.io/badge/Platzi-13161c?style=for-the-badge&logo=platzi&logoColor=0ae98a
 
 ## Get in Touch
 
